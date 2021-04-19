@@ -1,0 +1,16 @@
+nom{
+    color: red;
+}
+num_municipis{
+    color: black;
+    font-weight: bold;
+}
+poblacio{
+    display: block;
+}
+extensio{
+    display: block;
+}
+densidad{
+    display: block;
+}
